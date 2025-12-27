@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there I'm Jewell👋
 
 <!--
 **Wewell-29/Wewell-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Bachelor of Science in Information Technology (BSIT)
+🛠 Love designing systems that make business processes faster and smarter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wewell-29&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wewell-29&layout=compact&theme=tokyonight)
+
+📫 Reach Me On
+Email: jewellhernandez.29@gmail.com
+
 -->
